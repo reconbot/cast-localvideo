@@ -1,6 +1,8 @@
 cast-localvideo
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/cast-localvideo.svg)](https://greenkeeper.io/)
+
 Plays Local videos at your computer on your Chromecast. Beta for now.  
 
 Requirements
