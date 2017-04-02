@@ -2,7 +2,7 @@
 	"name" : "chromecast-sender",
 	"version" : "0.0.1",
 	"dependencies" : {
-		"async"   : "*",
+		"async"   : ">=2.3.0",
 		"express" : "*",
 		"jade"    : "*",
 		"fluent-ffmpeg": "*"
