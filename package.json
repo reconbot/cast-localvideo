@@ -5,6 +5,6 @@
 		"async"   : "*",
 		"express" : "*",
 		"jade"    : "*",
-		"fluent-ffmpeg": "*"
+		"fluent-ffmpeg": ">=2.1.1"
 	}
 }
