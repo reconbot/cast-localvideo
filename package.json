@@ -3,7 +3,7 @@
 	"version" : "0.0.1",
 	"dependencies" : {
 		"async"   : "*",
-		"express" : "*",
+		"express" : ">=4.17.0",
 		"jade"    : "*",
 		"fluent-ffmpeg": "*"
 	}
